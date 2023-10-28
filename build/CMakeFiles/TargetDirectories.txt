@@ -1,0 +1,6 @@
+D:/study/proga/mp2-lab2-matrix/build/CMakeFiles/ALL_BUILD.dir
+D:/study/proga/mp2-lab2-matrix/build/CMakeFiles/ZERO_CHECK.dir
+D:/study/proga/mp2-lab2-matrix/build/samples/CMakeFiles/STATIC.dir
+D:/study/proga/mp2-lab2-matrix/build/samples/CMakeFiles/sample_matrix.dir
+D:/study/proga/mp2-lab2-matrix/build/gtest/CMakeFiles/gtest.dir
+D:/study/proga/mp2-lab2-matrix/build/test/CMakeFiles/test_set.dir
